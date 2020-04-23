@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Devildk384/databasemovies/static/css/main.6300cd14.chunk.css",
-    "main.js": "/Devildk384/databasemovies/static/js/main.962d5f5c.chunk.js",
-    "main.js.map": "/Devildk384/databasemovies/static/js/main.962d5f5c.chunk.js.map",
-    "runtime-main.js": "/Devildk384/databasemovies/static/js/runtime-main.db4ff37a.js",
-    "runtime-main.js.map": "/Devildk384/databasemovies/static/js/runtime-main.db4ff37a.js.map",
-    "static/js/2.63b4aaba.chunk.js": "/Devildk384/databasemovies/static/js/2.63b4aaba.chunk.js",
-    "static/js/2.63b4aaba.chunk.js.map": "/Devildk384/databasemovies/static/js/2.63b4aaba.chunk.js.map",
-    "index.html": "/Devildk384/databasemovies/index.html",
-    "precache-manifest.149851bae9c601d350db7fa8dbe4a886.js": "/Devildk384/databasemovies/precache-manifest.149851bae9c601d350db7fa8dbe4a886.js",
-    "service-worker.js": "/Devildk384/databasemovies/service-worker.js",
-    "static/css/main.6300cd14.chunk.css.map": "/Devildk384/databasemovies/static/css/main.6300cd14.chunk.css.map",
-    "static/js/2.63b4aaba.chunk.js.LICENSE.txt": "/Devildk384/databasemovies/static/js/2.63b4aaba.chunk.js.LICENSE.txt"
+    "main.css": "/databasemovies/static/css/main.6300cd14.chunk.css",
+    "main.js": "/databasemovies/static/js/main.1bdeb7d7.chunk.js",
+    "main.js.map": "/databasemovies/static/js/main.1bdeb7d7.chunk.js.map",
+    "runtime-main.js": "/databasemovies/static/js/runtime-main.072cbb4b.js",
+    "runtime-main.js.map": "/databasemovies/static/js/runtime-main.072cbb4b.js.map",
+    "static/js/2.63b4aaba.chunk.js": "/databasemovies/static/js/2.63b4aaba.chunk.js",
+    "static/js/2.63b4aaba.chunk.js.map": "/databasemovies/static/js/2.63b4aaba.chunk.js.map",
+    "index.html": "/databasemovies/index.html",
+    "precache-manifest.c212fc4c0746ce585127efcd26028efe.js": "/databasemovies/precache-manifest.c212fc4c0746ce585127efcd26028efe.js",
+    "service-worker.js": "/databasemovies/service-worker.js",
+    "static/css/main.6300cd14.chunk.css.map": "/databasemovies/static/css/main.6300cd14.chunk.css.map",
+    "static/js/2.63b4aaba.chunk.js.LICENSE.txt": "/databasemovies/static/js/2.63b4aaba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.db4ff37a.js",
+    "static/js/runtime-main.072cbb4b.js",
     "static/js/2.63b4aaba.chunk.js",
     "static/css/main.6300cd14.chunk.css",
-    "static/js/main.962d5f5c.chunk.js"
+    "static/js/main.1bdeb7d7.chunk.js"
   ]
 }
